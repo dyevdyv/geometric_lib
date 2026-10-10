@@ -90,8 +90,13 @@ perimeter(7) # 43.982297150257104
 ## История изменений
 
 e505aa9 (HEAD -> new_features_558282) Added descriptions in every python file. Added docs/projectnotation.md which contains description of functions, formulas  behind them and examples of usage
+
 369d5a7 (origin/new_features_558282) Added triangle.py
+
 1cc1374 Fixed perimeter calculation in rectangle.py
+
 9a27bc5 Added new file rectangle.py
+
 d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+
 8ba9aeb L-03: Circle and square added

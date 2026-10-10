@@ -89,7 +89,7 @@ perimeter(7) # 43.982297150257104
 
 ## История изменений
 
-<ins>e505aa9</ins> (HEAD -> new_features_558282) Added descriptions in every python file. Added docs/projectnotation.md which contains description of functions, formulas  behind them and examples of usage
+<ins>e505aa9</ins> (HEAD -> new_features_558282) Added descriptions in every python file. Modified README.md which now contains description of functions, formulas  behind them and examples of usage
 
 <ins>369d5a7</ins> (origin/new_features_558282) Added triangle.py
 

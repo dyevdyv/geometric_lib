@@ -9,7 +9,7 @@
 
 ### triangle.py
 
-area(a, h)
+**area(a, h)**
 Принимает длину стороны a и длину высоты h, проведённой к этой стороне, возвращает площадь треугольника.
 Формула: S = a * h / 2
 ```python
@@ -18,7 +18,7 @@ from triangle import area
 area(6, 12) # 36
 ```
 
-perimeter(a, b, c)
+**perimeter(a, b, c)**
 Принимает длины сторон треугольника, возвращает его периметр
 Формула: P = a + b + c
 ```python
@@ -29,7 +29,7 @@ perimeter(6, 4, 8) # 18
 
 ### square.py
 
-area(a)
+**area(a)**
 Принимает сторону квадрата, возвращает его площадь
 Формула: S = a * a
 ```python
@@ -38,7 +38,7 @@ from square import area
 area(6) # 36
 ```
 
-perimeter(a)
+**perimeter(a)**
 Принимает сторону квадарата, возвращает его периметр
 Формула: P = a * 4
 ```python
@@ -49,7 +49,7 @@ perimeter(6) # 24
 
 ### rectangle.py
 
-area(a, b)
+***area(a, b)***
 Принимает длины сторон прямоугольника, возвращает его площадь
 Формула: P = a * b
 ```python
@@ -58,7 +58,7 @@ from rectangle import area
 area(6, 4) # 24
 ```
 
-perimeter(a, b)
+**perimeter(a, b)**
 По полученным длинам сторон прямоугольника вычисляет его периметр
 Формула: P = 2 * (a + b)
 ```python
@@ -69,7 +69,7 @@ perimeter(6, 5) # 22
 
 ### circle.py
 
-area(r)
+**area(r)**
 Принимает радиус круга, возвращает его площадь
 Формула: P = πR²
 ```python
@@ -78,7 +78,7 @@ from circle import area
 area(14) # 615.5721601035994
 ```
 
-perimeter(r)
+**perimeter(r)**
 Принимает радиус окружности, возвращает ее периметр
 Формула: P = 2πR
 ```python
@@ -89,14 +89,14 @@ perimeter(7) # 43.982297150257104
 
 ## История изменений
 
-e505aa9 (HEAD -> new_features_558282) Added descriptions in every python file. Added docs/projectnotation.md which contains description of functions, formulas  behind them and examples of usage
+<ins>e505aa9</ins> (HEAD -> new_features_558282) Added descriptions in every python file. Added docs/projectnotation.md which contains description of functions, formulas  behind them and examples of usage
 
-369d5a7 (origin/new_features_558282) Added triangle.py
+<ins>369d5a7</ins> (origin/new_features_558282) Added triangle.py
 
-1cc1374 Fixed perimeter calculation in rectangle.py
+<ins>1cc1374</ins> Fixed perimeter calculation in rectangle.py
 
-9a27bc5 Added new file rectangle.py
+<ins>9a27bc5</ins> Added new file rectangle.py
 
-d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+<ins>d078c8d</ins> (origin/main, origin/HEAD, main) L-03: Docs added
 
-8ba9aeb L-03: Circle and square added
+<ins>8ba9aeb</ins> L-03: Circle and square added

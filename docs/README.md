@@ -100,3 +100,5 @@ perimeter(7) # 43.982297150257104
 <ins>d078c8d</ins> (origin/main, origin/HEAD, main) L-03: Docs added
 
 <ins>8ba9aeb</ins> L-03: Circle and square added
+
+<ins>2f067a2</ins> (HEAD -> new_features_558282) added unit tests for geometric_lib
